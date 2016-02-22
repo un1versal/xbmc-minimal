@@ -1,3 +1,6 @@
+No Longer Maintained - use for reference only
+-
+
 xbmc-minimal
 ===================
 
